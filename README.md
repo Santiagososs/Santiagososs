@@ -16,6 +16,7 @@
   <img align="center" alt="Gabs-grafana" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg">
   <img align="center" alt="Gabs-jenkins" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg">
   <img align="center" alt="Gabs-k8s" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg">
+  <img align="center" alt="Gabs-k8s" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 </div>
 
 ##
