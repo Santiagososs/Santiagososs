@@ -5,17 +5,17 @@
 - :computer: Formado em analise e desenvolvimento de sistemas e me especializando em engenharia de software.
 - :cat: Sempre resolvendo problemas utilizando bash, python, HCL e EBPF.
 
-```go
+```bash
 resource "Devops Engineer" "Henry Santiago" {
   info = "DevOps/SRE and Solutions Architect"
   langs = ["Python", "Bash", "Go"]
-  areas = [
+  areas = ['
     "DevOps",
     "Reliability",
     "Systems development life cycle",
     "Infrastructure Security",
     "Cloud Solutions"
-  ]
+  ']
 }
 ```
 # Technologies
