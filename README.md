@@ -4,7 +4,7 @@
 - :crossed_swords: DevOps, SRE, resolvendo problemas e desenvolvendo soluções.
 - :computer: Formado em analise e desenvolvimento de sistemas e me especializando em engenharia de software.
 - :cat: Sempre utilizando bash, python, HCL e cloud em geral.
-- :book: Entusiasta eBPF e contrubuindo com o     <p>eBPF Brasil <a href="https://www.ebpfbrasil.com.br/" target="_blank"></a></p><>
+- :book: Entusiasta eBPF e contrubuindo com o <a href="https://www.ebpfbrasil.com.br/" target="_blank">eBPF Brasil</a>.</p>
 ```terraform
 resource "Devops Engineer" "Henry Santiago" {
   info = "DevOps/SRE and Solutions Architect"
