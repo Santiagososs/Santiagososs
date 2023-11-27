@@ -19,7 +19,7 @@ resource "Devops Engineer" "Henry Santiago" {
 }
 ```
 # Technologies
-  <img align="right" src="https://meneguite.com/2017/10/01/golang-desbravando-uma-linguagem-de-programacao-parte-1/001.gif">
+  <img align="right" src="https://hermes.dio.me/users/student/73fa2bdf-5fa2-4ce5-ad84-8f17b3f046fe.gif">
   <div align="left">
     <div>
       <img alt="Azure" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
