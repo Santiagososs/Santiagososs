@@ -1,10 +1,10 @@
 # Olá! Sou o Gabriel, mas todos me chamam de Henry :wave:
 
     
-- :crossed_swords: DevOps, SRE, sempre resolvendo problemas e desenvolvendo soluções.
+- :crossed_swords: DevOps, SRE, resolvendo problemas e desenvolvendo soluções.
 - :computer: Formado em analise e desenvolvimento de sistemas e me especializando em engenharia de software.
-- :cat: Sempre resolvendo problemas utilizando bash, python, HCL e EBPF.
-
+- :cat: Sempre utilizando bash, python, HCL e cloud em geral.
+- :book: Entusiasta eBPF e contrubuindo com o     <p>eBPF <a href="https://www.ebpfbrasil.com.br/" target="_blank">Brasil</a></p><>
 ```terraform
 resource "Devops Engineer" "Henry Santiago" {
   info = "DevOps/SRE and Solutions Architect"
