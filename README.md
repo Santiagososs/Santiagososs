@@ -5,7 +5,7 @@
 - :computer: Formado em analise e desenvolvimento de sistemas e me especializando em engenharia de software.
 - :cat: Sempre resolvendo problemas utilizando bash, python, HCL e EBPF.
 
-```bash
+```terraform
 resource "Devops Engineer" "Henry Santiago" {
   info = "DevOps/SRE and Solutions Architect"
   langs = ["Python", "Bash", "Go"]
