@@ -5,16 +5,16 @@
 - :computer: Formado em analise e desenvolvimento de sistemas e me especializando em engenharia de software.
 - :cat: Sempre resolvendo problemas utilizando bash, python, HCL e EBPF.
 
-```hcl
-resource <span style="color: lightgreen;">"Devops Engineer"</span> <span style="color: lightblue;">"Henry Santiago"</span> {
-  info = <span style="color: darkorange;">"DevOps/SRE and Solutions Architect"</span>
-  langs = [<span style="color: lightblue;">"Python"</span>, <span style="color: lightblue;">"Bash"</span>, <span style="color: lightblue;">"Go"</span>]
+```C
+resource **Devops Engineer** *Henry Santiago* {
+  info = *"DevOps/SRE and Solutions Architect"*
+  langs = ["**Python**", "**Bash**", "**Go**"]
   areas = [
-    <span style="color: lightblue;">"DevOps"</span>,
-    <span style="color: lightblue;">"Reliability"</span>,
-    <span style="color: lightblue;">"Systems development life cycle"</span>,
-    <span style="color: lightblue;">"Infrastructure Security"</span>,
-    <span style="color: lightblue;">"Cloud Solutions"</span>
+    "**DevOps**",
+    "**Reliability**",
+    "**Systems development life cycle**",
+    "**Infrastructure Security**",
+    "**Cloud Solutions**"
   ]
 }
 ```
