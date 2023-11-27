@@ -22,14 +22,14 @@ resource "Devops Engineer" "Henry Santiago" {
   <img align="right" src="https://meneguite.com/2017/10/01/golang-desbravando-uma-linguagem-de-programacao-parte-1/001.gif">
   <div align="left">
     <div>
-      <img alt="Azure" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
-      <img alt="Docker" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-      <img alt="Jenkins" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg">
-      <img alt="Kubernetes" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg">
-      <img alt="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-      <img alt="Python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
-      <img alt="Terraform" src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg">
-      <img alt="Bash" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg">
+      <img alt="Azure" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
+      <img alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+      <img alt="Jenkins" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg">
+      <img alt="Kubernetes" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg">
+      <img alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+      <img alt="Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
+      <img alt="Terraform" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg">
+      <img alt="Bash" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg">
     </div>
     <hr height="1">
   </div>
