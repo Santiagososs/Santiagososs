@@ -5,7 +5,7 @@
 - :computer: Formado em analise e desenvolvimento de sistemas e me especializando em engenharia de software.
 - :cat: Sempre resolvendo problemas utilizando bash, python, HCL e EBPF.
 
-```C
+```h
 resource <span style="color: lightgreen;">"Devops Engineer"</span> <span style="color: lightblue;">"Henry Santiago"</span> {
   info = <span style="color: darkorange;">"DevOps/SRE and Solutions Architect"</span>
   langs = [<span style="color: lightblue;">"Python"</span>, <span style="color: lightblue;">"Bash"</span>, <span style="color: lightblue;">"Go"</span>]
