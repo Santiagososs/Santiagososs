@@ -12,7 +12,7 @@ resource "Devops Engineer" "Henry Santiago" {
   areas = [
     "DevOps",
     "Reliability",
-    "Systems development life cycle",
+    "Systems Development Lifecycle",
     "Infrastructure Security",
     "Cloud Solutions"
   ]
