@@ -9,13 +9,13 @@
 resource "Devops Engineer" "Henry Santiago" {
   info = "DevOps/SRE and Solutions Architect"
   langs = ["Python", "Bash", "Go"]
-  areas = ['
+  areas = [
     "DevOps",
     "Reliability",
     "Systems development life cycle",
     "Infrastructure Security",
     "Cloud Solutions"
-  ']
+  ]
 }
 ```
 # Technologies
