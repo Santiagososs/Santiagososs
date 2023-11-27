@@ -1,38 +1,35 @@
+# Olá! Sou o Gabriel, mas todos me chamam de Henry :wave:
 
- ![github2](https://user-images.githubusercontent.com/70164638/111085221-25257d80-84f5-11eb-9cb3-e65e8d9f218b.gif)
-  
- ##
-  <h1>Technologies</h1>
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Gabs-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Gabs-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Gabs-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Gabs-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Gabs-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Gabs-c#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Gabs-dotnet" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg">
-  <img align="center" alt="Gabs-Azure" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
-  <img align="center" alt="Gabs-docker" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  <img align="center" alt="Gabs-grafana" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg">
-  <img align="center" alt="Gabs-jenkins" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg">
-  <img align="center" alt="Gabs-k8s" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg">
-  <img align="center" alt="Gabs-k8s" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-</div>
+    
+- :crossed_swords: DevOps, SRE, sempre resolvendo problemas e desenvolvendo soluções.
+- :computer: Formado em analise e desenvolvimento de sistemas e me especializando em engenharia de software.
+- :cat: Sempre resolvendo problemas utilizando bash, python, HCL e EBPF.
 
-##
-
-
-<div> 
- 
- <h1>Contacts</h1>
-  <a href="https://instagram.com/gabriel_santiiago" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto: santiagos@alu.ufc.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gabriel-c-b00bb3130/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  
-
- 
- </div> 
- 
- 
- 
+```C
+resource "Devops Engineer" "Henry Santiago" {
+  info = "DevOps/SRE and Solutions Architect"
+  langs = ["Python", "Bash", "Go"]
+  areas = [
+    "DevOps",
+    "Reliability",
+    "Systems development life cycle",
+    "Infrastructure Security",
+    "Cloud Solutions"
+  ]
+}
+```
+# Technologies
+  <img align="right" src="https://meneguite.com/2017/10/01/golang-desbravando-uma-linguagem-de-programacao-parte-1/001.gif">
+  <div align="left">
+    <div>
+      <img alt="Azure" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
+      <img alt="Docker" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+      <img alt="Jenkins" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg">
+      <img alt="Kubernetes" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg">
+      <img alt="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+      <img alt="Python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
+      <img alt="Terraform" src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg">
+      <img alt="Bash" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg">
+    </div>
+    <hr height="1">
+  </div>
