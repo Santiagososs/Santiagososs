@@ -30,6 +30,7 @@ resource "Devops Engineer" "Henry Santiago" {
       <img alt="Python" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
       <img alt="Terraform" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg">
       <img alt="Bash" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg">
+      <img alt="eBPF" height="40" width="50" src="https://pyroscope.io/img/logos/ebpf_logo_100x100-01.png">
     </div>
     <hr height="1">
   </div>
