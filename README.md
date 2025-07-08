@@ -1,20 +1,21 @@
-# Olá! Sou o Gabriel, mas todos me chamam de Henry :wave:
+# Hey there! I'm Gabriel, but you can call me Henry! :wave:
 
     
-- :crossed_swords: DevOps, SRE, resolvendo problemas e desenvolvendo soluções.
-- :computer: Formado em analise e desenvolvimento de sistemas e me especializando em engenharia de software.
-- :cat: Sempre utilizando bash, python, HCL e cloud em geral.
-- :book: Entusiasta eBPF e contrubuindo com o <a href="https://www.ebpfbrasil.com.br/" target="_blank">eBPF Brasil</a>.</p>
+- :crossed_swords: DevOps, SRE, and problem-solver, building reliable and scalable solutions.
+- :computer: Graduated in Systems Analysis and Development, currently specializing in Software Engineering.
+- :cat: Fluent in Bash, Python, HCL, and all things cloud.
+- :book: eBPF enthusiast and contributor to <a href="https://www.ebpfbrasil.com.br/" target="_blank">eBPF Brasil</a>.</p>
 ```terraform
-resource "Devops Engineer" "Henry Santiago" {
-  info = "DevOps/SRE and Solutions Architect"
+resource "DevOps Engineer" "Henry Santiago" {
+  info  = "DevOps/SRE and Solutions Engineer"
   langs = ["Python", "Bash", "Go"]
   areas = [
     "DevOps",
-    "Reliability",
+    "Site Reliability Engineering",
     "Systems Development Lifecycle",
     "Infrastructure Security",
-    "Cloud Solutions"
+    "Cloud Solutions",
+    "Customer Solutions Engineering"
   ]
 }
 ```
